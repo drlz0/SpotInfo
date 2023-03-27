@@ -1,0 +1,13 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/SpotInfo.egg-info/PKG-INFO
+src/SpotInfo.egg-info/SOURCES.txt
+src/SpotInfo.egg-info/dependency_links.txt
+src/SpotInfo.egg-info/not-zip-safe
+src/SpotInfo.egg-info/requires.txt
+src/SpotInfo.egg-info/top_level.txt
+src/application/__init__.py
+src/application/main.py
+src/application/py.typed
+tests/test_app.py
