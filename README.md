@@ -1,5 +1,4 @@
-# SpotInfo
-Get band's or artist's albums
+# Tkinter with tox testing and github testing
 
 I was testing if github testing and tox testing works for TkInter, unfortunetly it can't.
 Reason is that Tkinter uses Tcl/Tk, from Tkinter docs:
